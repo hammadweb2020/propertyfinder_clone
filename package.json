@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/accordion": "^1.4.1",
     "@chakra-ui/avatar": "^1.2.10",
     "@chakra-ui/react": "^1.7.2",
     "@emotion/react": "^11.4.1",
