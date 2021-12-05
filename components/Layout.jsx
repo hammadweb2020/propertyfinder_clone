@@ -8,7 +8,7 @@ export default function Layout({ children }) {
   return (
     <>
       <Head>
-        <title>Bayut Clone - Real Estate App</title>
+        <title>Property Finder Clone - Real Estate App</title>
       </Head>
       <Box maxWidth='1280px' m='auto'>
         <header>

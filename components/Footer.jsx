@@ -3,7 +3,7 @@ import Link  from 'next/link'
 
 const Footer = () => (
   <Box textAlign='center' p='5' color='gray.600' borderTop='1px' borderColor='gray.100'>
-    © 2021 Bayut Clone Property App. Developed by Hammad <Link href='https://hammad.pro' passHref>www.hammad.pro</Link>
+    © 2021 Proptery Finder Clone. Developed by Hammad <Link href='https://hammad.pro' passHref>www.hammad.pro</Link>
   </Box>
 );
 
